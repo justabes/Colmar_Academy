@@ -1,3 +1,14 @@
 body {
     font-family: sans-serif;
 }
+
+.logo {
+    display: flex;
+    height: 64px;
+    align-items: center;
+}
+
+#left {
+    font-size: 32px; 
+    font-weight: bold;
+}
